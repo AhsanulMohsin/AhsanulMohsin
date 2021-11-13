@@ -1,12 +1,10 @@
-### Hi there 👋, I' m Mohsin
-#### Web Developer
 ![Web Developer](https://pbs.twimg.com/profile_banners/1106852117996666881/1636815039/600x200)
 
+### Hi there 👋, I' m Mohsin
+#### Web Developer
 I specialize in Responsive Websites and functional user interfaces and focus on human-centered design to make it easier for everyone to operate.
 I am also Team Leader of IdeaGlobes &  Helping others to learn Web Development #WordPress #Brand Design & Strategy #Tech #Digital-marketing.
  My service & work are exceptional because I can try to understand client psychology and know-how to create very attractive & effective web content to promote any business.
-
-Thank You.
 
 Skills:  HTML / CSS /BOOTSTRAP/ REACT/ JS/ PHP / WordPress
 
@@ -24,11 +22,5 @@ Skills:  HTML / CSS /BOOTSTRAP/ REACT/ JS/ PHP / WordPress
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanulMohsin)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AhsanulMohsin&show_icons=true)  
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AhsanulMohsin)  
-
-![GitHub metrics](https://metrics.lecoq.io/AhsanulMohsin)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AhsanulMohsin)  
 
