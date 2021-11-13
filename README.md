@@ -20,7 +20,5 @@ Skills:  HTML / CSS /BOOTSTRAP/ REACT/ JS/ PHP / WordPress
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AhsanulMohsin)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanulMohsin)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AhsanulMohsin)  
 
